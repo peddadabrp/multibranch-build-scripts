@@ -29,4 +29,3 @@ node ('linux'){
     }
   }
 }
-// Testing the git hook to pull repo from other repo
